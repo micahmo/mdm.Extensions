@@ -1,4 +1,6 @@
 # mdm.Extensions
+[![NuGet](https://img.shields.io/nuget/v/mdm.Extensions?label=nuget)](https://www.nuget.org/packages/mdm.Extensions)
+
 A set of common reusable .NET utilities and extensions
 
 ## Install
